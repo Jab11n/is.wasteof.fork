@@ -36,5 +36,11 @@ const items  = [
     {name: 'minecraft 3ds', isWaste: true},
     {name: 'drugs', isWaste: 'custom', custom: 'depends', explanation: 'im not qualified to tell this to you speak to your doctor or something'}, 
     {name: 'bugle', isWaste: false}, 
+    {name: 'band', isWaste: false}, 
+    {name: 'food', isWaste: false}, 
+    {name: 'chair', isWaste: false}, 
+    {name: 'bed', isWaste: false}, 
+    {name: 'school', isWaste: 'depends', explanation: 'public school is free and stuff but college is probably a waste of money unless you need a college education for a certain job or something so basically its up to you to decide'}, 
+
     {name: 'life', isWaste: 'custom', custom: 'depends', explanation: 'If you mean your life, totally, but life in general ... well, I guess, living stuff created money and also ways to waste it, so ... kinda ...'}
 ];
