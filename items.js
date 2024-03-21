@@ -42,5 +42,7 @@ const items  = [
     {name: 'bed', isWaste: false}, 
     {name: 'school', isWaste: 'depends', explanation: 'public school is free and stuff but college is probably a waste of money unless you need a college education for a certain job or something so basically its up to you to decide'}, 
 
-    {name: 'life', isWaste: 'custom', custom: 'depends', explanation: 'If you mean your life, totally, but life in general ... well, I guess, living stuff created money and also ways to waste it, so ... kinda ...'}
+    {name: 'life', isWaste: 'custom', custom: 'depends', explanation: 'If you mean your life, totally, but life in general ... well, I guess, living stuff created money and also ways to waste it, so ... kinda ...'},
+    {name: 'github', isWaste: false},
+    {name: 'super duolingo', isWaste: true}
 ];
