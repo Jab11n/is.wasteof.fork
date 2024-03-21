@@ -44,5 +44,6 @@ const items  = [
 
     {name: 'life', isWaste: 'custom', custom: 'depends', explanation: 'If you mean your life, totally, but life in general ... well, I guess, living stuff created money and also ways to waste it, so ... kinda ...'},
     {name: 'github', isWaste: false},
-    {name: 'super duolingo', isWaste: true}
+    {name: 'super duolingo', isWaste: true},
+    {name: 'discord nitro', isWaste: true}
 ];
