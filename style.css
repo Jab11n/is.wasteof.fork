@@ -1,9 +1,9 @@
 :root{
-    --color: orange;
+    --color: #0066ff;
 }
 
 body{
-    background-color: #2B2B2B;
+    background-image: linear-gradient(to right, #2a313c, #5c7a77);
     color: white;
     font-family: sans-serif;
 }
@@ -24,7 +24,7 @@ a{
 
 hr{
     border-color: var(--color);
-    border-width: 1px;
+    border-width: 2px;
     border-top: none;
     border-right: none;
     border-left: none;
