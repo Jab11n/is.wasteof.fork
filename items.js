@@ -58,5 +58,11 @@ const items  = [
     {name: 'fortnite crew', isWaste: false},
     {name: 'fortnite', isWaste: 'free'},
     {name: 'nesquik', isWaste: false},
-    {name: 'banana bread', isWaste: false}
+    {name: 'banana bread', isWaste: false},
+    {name: 'ps5', isWaste: true},
+    {name: 'xbox one', isWaste: true},
+    {name: 'xbox series s', isWaste: false},
+    {name: 'xbox series x', isWaste: true},
+    {name: 'custom built gaming pc', isWaste: false},
+    {name: 'bing', isWaste: 'free', explanation: 'it is free to use and also it gives out gift cards so that\'s cool'}
 ];
