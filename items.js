@@ -3,7 +3,7 @@ const items  = [
     {name: 'android', isWaste: false},
     {name: 'minecraft', isWaste: false},
     {name: 'air', isWaste: 'free'},
-    {name: 'https', isWaste: 'custom', custom: 'depends', explanation: 'https is not a waste of money if you get it free'},
+    {name: 'https', isWaste: 'custom', custom: 'depends', explanation: 'https is not a waste of money if you get it free (cloudflare)'},
     {name: 'this website', isWaste: 'custom', custom: 'how dare you check if this website is a waste of money!! its free how could it possibly be???'},
     {name: 'optifine', isWaste: 'free'},
     {name: 'optifine cape', isWaste: false},
@@ -64,5 +64,6 @@ const items  = [
     {name: 'xbox series s', isWaste: false},
     {name: 'xbox series x', isWaste: true},
     {name: 'custom built gaming pc', isWaste: false},
-    {name: 'bing', isWaste: 'free', explanation: 'it is free to use and also it gives out gift cards so that\'s cool'}
+    {name: 'bing', isWaste: 'free', explanation: 'it is free to use and also it gives out gift cards so that\'s cool, but otherwise yes do not give bing money'},
+    {name: 'nitro basic', isWaste: true, explanation: 'more of a waste than regular discord nitro because you\'re paying $3 for nothing????'}
 ];
