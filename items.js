@@ -65,5 +65,9 @@ const items  = [
     {name: 'xbox series x', isWaste: true},
     {name: 'custom built gaming pc', isWaste: false},
     {name: 'bing', isWaste: 'free', explanation: 'it is free to use and also it gives out gift cards so that\'s cool, but otherwise yes do not give bing money'},
-    {name: 'nitro basic', isWaste: true, explanation: 'more of a waste than regular discord nitro because you\'re paying $3 for nothing????'}
+    {name: 'nitro basic', isWaste: true, explanation: 'more of a waste than regular discord nitro because you\'re paying $3 for nothing????'},
+    {name: 'pc', isWaste: false},
+    {name: 'ps4', isWaste: true},
+    {name: 'nintendo switch', isWaste: true},
+    {name: 'nintendo switch lite', isWaste: true}
 ];
