@@ -50,7 +50,7 @@ const items  = [
     {name: 'salvation', isWaste: 'free'},
     {name: '2020 intel macbook air', isWaste: true},
     {name: 'lawsuit', isWaste: 'custom', custom: 'depends', explanation: 'if you\'re the one suing, then probably. unless you win.'},
-    {name: 'skibidi', isWaste: true},
+    {name: 'skibidi toilet fortnite skins', isWaste: true},
     {name: 'reading', isWaste: 'custom', custom: 'not a waste of money. might be a waste of time if the reading isn\'t beneficial to you though.'},
     {name: 'wii', isWaste: false},
     {name: 'wii u', isWaste: true},
@@ -69,5 +69,15 @@ const items  = [
     {name: 'pc', isWaste: false},
     {name: 'ps4', isWaste: true},
     {name: 'nintendo switch', isWaste: true},
-    {name: 'nintendo switch lite', isWaste: true}
+    {name: 'nintendo switch lite', isWaste: true},
+    {name: 'github pro', isWaste: 'custom', custom: 'if you\'re a student you can probably get github pro for free. otherwise if you\'re a professional it could not be a waste of money, but if you buy it and do not use it then it is a waste of money.'},
+    {name: 'calculus', isWaste: true},
+    {name: 'algebra', isWaste: true},
+    {name: 'wasteof', isWaste: false},
+    {name: 'honey', isWaste: true},
+    {name: 'chatgpt pro', isWaste: true},
+    {name: 'google gemini advanced', isWaste: true},
+    {name: 'ai', isWaste: true},
+    {name: 'x premium', isWaste: true},
+    {name: 'elon musk mars spaceship', isWaste: true}
 ];
